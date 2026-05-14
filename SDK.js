@@ -13,8 +13,8 @@ const firebaseConfig = {
   projectId: "piber-tennis-webapp",
   storageBucket: "piber-tennis-webapp.firebasestorage.app",
   messagingSenderId: "392373350880",
-  appId: "1:392373350880:web:fc8707d2d0adcef113bb85",
-  measurementId: "G-QNEX454XE9"
+  appId: "1:392373350880:web:cc551e363ea70a5113bb85",
+  measurementId: "G-HTLNLEH1ZB"
 };
 
 // Initialize Firebase
