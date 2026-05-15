@@ -8,13 +8,13 @@ import { getFunctions } from "https://www.gstatic.com/firebasejs/12.9.0/firebase
 // Your web app's Firebase configuration
 // For Firebase JS SDK v7.20.0 and later, measurementId is optional
 const firebaseConfig = {
-  apiKey: "AIzaSyCX8AAZXwPiWynMsK3exnnUD1QMfsZzy9c",
-  authDomain: "piber-tennis-webapp.firebaseapp.com",
-  projectId: "piber-tennis-webapp",
-  storageBucket: "piber-tennis-webapp.firebasestorage.app",
-  messagingSenderId: "392373350880",
-  appId: "1:392373350880:web:cc551e363ea70a5113bb85",
-  measurementId: "G-HTLNLEH1ZB"
+  apiKey: "AIzaSyDVGQo2wrMNqmN9WNYF3A_9GLLTuHxjQ5s",
+  authDomain: "e-piber.firebaseapp.com",
+  projectId: "e-piber",
+  storageBucket: "e-piber.firebasestorage.app",
+  messagingSenderId: "931335143958",
+  appId: "1:931335143958:web:80929de5e94e25a0376b37",
+  measurementId: "G-VQWZ1BN2TQ"
 };
 
 // Initialize Firebase
